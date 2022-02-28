@@ -1,4 +1,4 @@
-Mastermind ( OCaml ) : two game modes: against a friend or against an AI  (  using the Knuth algorithm or the Naive algorithm ) with differents levels of difficulty.
+(2018) Mastermind ( OCaml ) : two game modes: against a friend or against an AI  (  using the Knuth algorithm or the Naive algorithm ) with differents levels of difficulty.
 
 Pour lancer le jeu, il suffit d'effectuer les manipulations suivantes : 
 
